@@ -3,35 +3,25 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/balikusha183-cloud/Nanonets?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/balikusha183-cloud/Nanonets?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge" />
 </p>
 
 ---
 
 # 📌 Overview
 
-**Nanonets** is a simple GitHub repository created for storing and managing image assets and project resources.  
-The repository currently contains multiple PNG image files and serves as a base project for future expansion, experimentation, or image processing workflows.
+**Nanonets** is a GitHub repository for managing and storing image assets and project resources.
 
-This project is lightweight, beginner-friendly, and easy to customize.
+The repository currently contains uploaded PNG screenshots/images along with an MIT license setup. This project can later be expanded into AI/ML workflows, dataset storage, image processing pipelines, or computer vision applications.
 
 ---
 
-# 🖼️ Project Preview
+# 🖥️ Repository Preview
 
-## 📸 Repository Screenshot
-
-> Add this image inside your repository root folder and name it `preview.png`
-
-```bash
-preview.png
-```
-
-Then the screenshot will automatically display below:
+The screenshot below shows the current GitHub repository structure.
 
 <p align="center">
-  <img src="./preview.png" alt="Project Screenshot" width="100%" />
+  <img src="./1.png" alt="Repository Preview" width="100%" />
 </p>
 
 ---
@@ -41,6 +31,7 @@ Then the screenshot will automatically display below:
 ```bash
 Nanonets/
 │
+├── 1.png
 ├── 2.png
 ├── 3.png
 ├── 4.png
@@ -51,30 +42,55 @@ Nanonets/
 
 ---
 
-# ✨ Features
+# 📸 Screenshots Gallery
 
-- 📁 Organized image asset storage
-- 🖼️ PNG image support
-- ⚡ Lightweight repository
-- 🔓 Open-source under MIT License
-- 🚀 Easy to clone and use
-- 📦 Ready for future project integration
+## Screenshot 1
+
+<p align="center">
+  <img src="./2.png" alt="Screenshot 1" width="800"/>
+</p>
 
 ---
 
-# 🛠️ Technologies Used
+## Screenshot 2
 
-| Technology | Purpose |
-|------------|---------|
-| GitHub | Version Control |
-| PNG Files | Image Storage |
-| Markdown | Documentation |
+<p align="center">
+  <img src="./3.png" alt="Screenshot 2" width="800"/>
+</p>
+
+---
+
+## Screenshot 3
+
+<p align="center">
+  <img src="./4.png" alt="Screenshot 3" width="800"/>
+</p>
+
+---
+
+## Screenshot 4
+
+<p align="center">
+  <img src="./5.png" alt="Screenshot 4" width="800"/>
+</p>
+
+---
+
+# ✨ Features
+
+✅ Simple repository structure  
+✅ GitHub-hosted image management  
+✅ PNG image asset storage  
+✅ Open-source MIT License  
+✅ Easy cloning and setup  
+✅ Ready for future development  
+✅ Beginner-friendly organization  
 
 ---
 
 # 🚀 Getting Started
 
-## 📥 Clone the Repository
+## 📥 Clone Repository
 
 ```bash
 git clone https://github.com/balikusha183-cloud/Nanonets.git
@@ -82,7 +98,7 @@ git clone https://github.com/balikusha183-cloud/Nanonets.git
 
 ---
 
-## 📂 Navigate Into the Project
+## 📂 Navigate Into Project
 
 ```bash
 cd Nanonets
@@ -90,75 +106,68 @@ cd Nanonets
 
 ---
 
-# 📸 Included Images
+# 🛠️ Technologies Used
 
-The repository currently includes the following image assets:
-
-| File Name | Description |
-|-----------|-------------|
-| `2.png` | Uploaded image asset |
-| `3.png` | Uploaded image asset |
-| `4.png` | Uploaded image asset |
-| `5.png` | Uploaded image asset |
-
----
-
-# 🖼️ Displaying Images in README
-
-You can directly display images stored in the repository.
-
-Example:
-
-```markdown
-![Image](./2.png)
-```
-
-## Example Output
-
-### Image Preview
-
-<p align="center">
-  <img src="./2.png" width="600"/>
-</p>
+| Technology | Purpose |
+|------------|---------|
+| GitHub | Repository Hosting |
+| Git | Version Control |
+| Markdown | Documentation |
+| PNG Files | Image Storage |
 
 ---
 
 # 📈 Future Improvements
 
-- Add image classification support
-- Integrate AI/ML functionality
-- Add image upload automation
-- Build frontend preview page
-- Add API integration
+This repository can later be expanded with:
+
+- AI image classification
+- Dataset management
+- Annotation tools
+- Computer vision pipelines
+- API integration
+- Web dashboard
+- Automation workflows
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome!
+Contributions are welcome.
 
-If you'd like to improve this project:
+## 1️⃣ Fork Repository
 
-1. Fork the repository
-2. Create a new branch
+Click the **Fork** button on GitHub.
+
+---
+
+## 2️⃣ Create New Branch
 
 ```bash
 git checkout -b feature-name
 ```
 
-3. Commit your changes
+---
+
+## 3️⃣ Commit Changes
 
 ```bash
 git commit -m "Added new feature"
 ```
 
-4. Push to GitHub
+---
+
+## 4️⃣ Push Changes
 
 ```bash
 git push origin feature-name
 ```
 
-5. Open a Pull Request
+---
+
+## 5️⃣ Open Pull Request
+
+Submit your changes for review.
 
 ---
 
@@ -166,13 +175,13 @@ git push origin feature-name
 
 This project is licensed under the **MIT License**.
 
-See the [LICENSE](LICENSE) file for more information.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
 # 👤 Author
 
-## GitHub Profile
+### GitHub
 
 🔗 https://github.com/balikusha183-cloud
 
@@ -184,15 +193,13 @@ If you like this project:
 
 ⭐ Star the repository  
 🍴 Fork the repository  
-📢 Share it with others
+📢 Share with others  
 
 ---
 
 # 📬 Contact
 
-For questions or collaboration:
-
-- GitHub: https://github.com/balikusha183-cloud
+GitHub: https://github.com/balikusha183-cloud
 
 ---
 
